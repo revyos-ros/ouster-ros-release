@@ -1,3 +1,4 @@
+release_repo_url: git@github.com:revyos-ros/ouster-ros-release.git
 tracks:
   iron:
     actions:

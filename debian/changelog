@@ -1,0 +1,33 @@
+ros-jazzy-ouster-sensor-msgs (0.11.1-8noble) noble; urgency=high
+
+  * breaking: rename ouster_msgs to ouster_sensor_msgs
+
+ -- Ussama Naal <ussama.naal@ouster.io>  Tue, 31 Oct 2023 16:00:00 -0000
+
+ros-jazzy-ouster-sensor-msgs (0.10.4-8noble) noble; urgency=high
+
+
+
+ -- Ussama Naal <ussama.naal@ouster.io>  Wed, 30 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ouster-sensor-msgs (0.10.3-8noble) noble; urgency=high
+
+  * Add per package LICENSE file
+  * Contributors: Ussama Naal
+
+ -- Ussama Naal <ussama.naal@ouster.io>  Mon, 14 Aug 2023 16:00:00 -0000
+
+ros-jazzy-ouster-sensor-msgs (0.10.2-8noble) noble; urgency=high
+
+  * match ouster_msg version with ouster_ros
+  * SW-5345: merge-ouster-srvs into ouster-msgs (#176)
+    * Merge ouster-srvs into ouster-msgs package
+    * Update ouster_ros package version to highlight the breadking change due obseleting ouster_srvs
+  * Merge pull request #51 from ouster-lidar/SW-4342-prototype-ros-2-driver
+    ROS2 driver MVP (beta release)
+  * ROS2 driver prototype
+  * Contributors: Ussama Naal
+
+ -- Ussama Naal <ussama.naal@ouster.io>  Mon, 14 Aug 2023 16:00:00 -0000
+
+
